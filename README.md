@@ -5,5 +5,5 @@ Clone to your config directory.
 git clone ~/.config/nvim/
 
 ```
-Check out [LazyVim distro]("https://www.lazyvim.org") for more informations.
+Check out <a href="https://www.lazyvim.org">LazyVim distro</a> for more informations.
 
